@@ -21,3 +21,6 @@ Note: requires `docker login`
 --OR--
 
 `$ echo "Hello World!" | docker run -i --rm macabees/toilet --`
+
+## Help
+`$ docker run -it --rm macabees/toilet --help`
